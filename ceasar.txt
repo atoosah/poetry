@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # A Soliloquy of Marc Anthony
+=======
+# A Soliloquy of Marc Antony from _Julius Ceasar_
+>>>>>>> feature2
 
 0 pardon me, thou bleeding piece of earth
 That I am meek and gentle with these butchers
